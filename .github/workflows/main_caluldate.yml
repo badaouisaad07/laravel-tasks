@@ -63,4 +63,4 @@ jobs:
           app-name: 'CalulDate'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E2899EEADB74B7E9726EDF696593A4C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E638F8098C394B0788B9B7B5264D7F94 }}
